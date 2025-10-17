@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MuriloTamura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloTamura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="right">
   <img height="350" src="https://camo.githubusercontent.com/10444a94a41167f0001aac611c422c26f440f1c97dc8a0cd28042739ca15a708/68747470733a2f2f6d656469612e74656e6f722e636f6d2f334635586d59684541527741414141642f6368696c6c2d6a6170616e2e676966"  />
 </div>
 
