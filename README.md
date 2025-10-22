@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My Skills</p>
+<h4 align="left">My Skills</h4>
 
 ###
 
