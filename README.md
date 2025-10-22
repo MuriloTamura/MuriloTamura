@@ -8,6 +8,16 @@
 
 ###
 
+<p align="left">My Skills</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1b5b6e"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -24,6 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1b5b6e"  />
 </div>
 
 ###
@@ -46,7 +62,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://camo.githubusercontent.com/10444a94a41167f0001aac611c422c26f440f1c97dc8a0cd28042739ca15a708/68747470733a2f2f6d656469612e74656e6f722e636f6d2f334635586d59684541527741414141642f6368696c6c2d6a6170616e2e676966"  />
+  <img height="350" src="https://i0.wp.com/halcyonrealms.com/blogpics/japgifB.gif?resize=500%2C291&ssl=1"  />
 </div>
 
 ###
